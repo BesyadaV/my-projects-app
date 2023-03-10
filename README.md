@@ -1,4 +1,4 @@
-# Dear reviver this project was bootstrapped with Create React App
+# Dear reviewer this project was bootstrapped with Create React App
 
 So it is super common configuration. 
 1. install packages
